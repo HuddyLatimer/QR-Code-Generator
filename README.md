@@ -23,3 +23,7 @@ Follow these steps to get the QR Code Generator running locally:
 
    ```bash
    git clone https://github.com/HuddyLatimer/QR-Code-Generator.git
+
+### Showcase
+![image](https://github.com/user-attachments/assets/7f092009-5d84-4727-a367-7ceda897c225)
+
